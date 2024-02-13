@@ -1,8 +1,8 @@
 name: AzureAPI
 
 env:
-  container_registry: azureapiflask.azurecr.io
-  container_registry_name: azureapiflask.azurecr.io/azureapi/flask:latest
+  container_registry: azureapiflaskclc.azurecr.io
+  container_registry_name: azureapiflaskclc.azurecr.io/azureapi:flask
   resourceGroup: AZ-400
   appName: azureapiflask1992
 
