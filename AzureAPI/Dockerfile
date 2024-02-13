@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Michael Levan
+MAINTAINER Christopher Carter
 
 CMD tail -f /dev/null
 
